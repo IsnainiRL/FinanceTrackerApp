@@ -398,14 +398,6 @@ body {
   color: var(--text-dark);
 }
 
-select {
-   appearance: none;
-   background-image: url('');
-   background-repeat: no-repeat;
-   background-position: right 12px center;
-   background-size: 24px;
-}
-
 /* =========================================================
    TRACKER FOOTER
    ========================================================= */
